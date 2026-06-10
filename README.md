@@ -8,7 +8,7 @@ Family: timer
 
 Category: peripheral
 
-Repository: git@github.com:openecos-projects/ip-000006.git
+Repository: git@github.com:openecos-projects/apb4-timer-controller.git
 
 Upstream: https://github.com/oscc-ip/timer
 
